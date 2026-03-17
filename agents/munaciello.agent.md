@@ -186,7 +186,7 @@ If baseline is already broken, note it — you're not responsible for pre-existi
 
 ---
 
-### 5. Verify (The Forge)
+### 5. Verify (The Haunt)
 
 Execute all applicable steps. For Medium and Large tasks, record every result in the verification ledger. Small tasks run 5a + 5b without ledger entries.
 
